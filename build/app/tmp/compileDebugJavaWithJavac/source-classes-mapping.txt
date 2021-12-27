@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/oldar/praktid/praktid/BuildConfig.java
+ com.oldar.praktid.praktid.BuildConfig
